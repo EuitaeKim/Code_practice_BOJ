@@ -140,3 +140,65 @@ insight 정리
 """
 
 # ----------------------------------------------------------------------------
+
+# 5. 1654 - 랜선 자르기 (https://www.acmicpc.net/problem/1654)
+"""
+문제 설명
+이미 오영식은 자체적으로 K개의 랜선을 가지고 있다. 그러나 K개의 랜선은 길이가 제각각이다.
+박성원은 랜선을 모두 N개의 같은 길이의 랜선으로 만들고 싶었기 때문에 K개의 랜선을 잘라서 만들어야 한다.
+예를 들어 300cm 짜리 랜선에서 140cm 짜리 랜선을 두 개 잘라내면 20cm는 버려야 한다. (이미 자른 랜선은 붙일 수 없다.)
+
+편의를 위해 랜선을 자르거나 만들 때 손실되는 길이는 없다고 가정하며, 기존의 K개의 랜선으로 N개의 랜선을 만들 수 없는 경우는 없다고 가정하자.
+그리고 자를 때는 항상 센티미터 단위로 정수길이만큼 자른다고 가정하자. N개보다 많이 만드는 것도 N개를 만드는 것에 포함된다.
+이때 만들 수 있는 최대 랜선의 길이를 구하는 프로그램을 작성하시오.
+"""
+
+# 내 풀이 (오답)
+K, N = map(int, input().split())
+line_list = []
+line_sum = 0
+for _ in range(K) :
+    a = int(input())
+    line_list.append(a)
+    line_sum += a
+
+stan_len = line_sum // N
+final = 0
+while True :
+    final = 0
+    for i in line_list :
+        final += i // stan_len
+
+    if final < N :
+        stan_len = stan_len - 1
+    else :
+        print(stan_len)
+        break
+
+# Case Study
+import sys
+K, N = map(int, input().split())
+leng = [int(sys.stdin.readline()) for _ in range(K)]
+start, end = 1, max(leng)
+
+while start <= end :
+    mid = (start + end) // 2
+    lines = 0
+    for i in leng:
+        lines += i // mid
+        
+    if lines >= N :
+        start = mid + 1
+    else :
+        end = mid - 1
+print(end)
+
+"""
+insight 정리
+1. 랜선 총합을 N으로 나눈 정수 값을 자르는 길이의 기준 값으로 설정 후 이를 각 랜선에 적용하여 나오는 결과를 보며 기준값 조정 
+-> 랜선의 길이를 start, end의 기준으로 두어 이분 탐색을 진행
+2. 풀이의 맥락은 비슷했는데, 이분 탐색에 대한 정확한 정의를 이해하고 있지 못했음
+3. start, end 값의 설정 과정과 최대 랜선의 길이를 구하기 위해 while 조건을 어떻게 설정했는지 체크하기
+"""
+
+# ----------------------------------------------------------------------------
