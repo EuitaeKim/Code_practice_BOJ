@@ -44,28 +44,38 @@ insight 정리
 """
 
 # 내 풀이
+import datetime as dt
+
 y1, m1, d1 = map(int, input().split())
 y2, m2, d2 = map(int, input().split())
 
-com = y2-y1-1
-if com < 0 :
-    print(0)
-else :
-    if m1 != m2 :
-        print(com)
-    else :
-        if d1 == d2 :
-            print(com+1)
-        else :
-            print(com)
-
-print(com+2)
-print(com+1)
+dt1 = dt.datetime(y1, m1, d1)
+dt2 = dt.datetime(y2, m2, d2)
+td = dt2 - dt1
+print(f"{td.days // 365}\n{y2-y1+1}\n{y2-y1}")
 
 # Case Study
+y1, m1, d1 = map(int, input().split())
+y2, m2, d2 = map(int, input().split())
+man_old = 0
+if m1 < m2: 
+    man_old = y2-y1
+elif m1 == m2: 
+    if d1 <= d2:
+        man_old = y2-y1
+    else:
+        man_old = y2-y1-1
+else:
+    man_old = y2-y1-1
+count_old = y2-y1+1
+year_old = y2-y1
+print(man_old)
+print(count_old)
+print(year_old)
 
 """
 insight 정리
+1. 하나하나 뜯어보면 이해가 될 줄 알았는데, 왜 그런지 자꾸봐도 이해가 안됨.. 계속 복습해야 할 듯
 """
 
 # ----------------------------------------------------------------------------
