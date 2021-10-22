@@ -1,4 +1,6 @@
 ## Code practice - BOJ
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ket0804" height="165">
+
 
 ### 문제 풀이 히스토리
 > 이전에 푼 문제는 정리하여 여기에 추가하기
