@@ -83,3 +83,30 @@ insight 정리
 """
 
 # ----------------------------------------------------------------------------
+
+# 3. 10989 - 수 정렬하기 3 (https://www.acmicpc.net/problem/10989)
+"""
+문제 설명
+N개의 수가 주어졌을 때, 이를 오름차순으로 정렬하는 프로그램을 작성하시오.
+"""
+
+# 내 풀이
+import sys
+n = int(sys.stdin.readline())
+
+li = [0] * 10001
+for _ in range(n) :
+    a = int(sys.stdin.readline())
+    li[a] = li[a] + 1
+
+for i in range(10001) :
+    if li[i] != 0 :
+        for _ in range(li[i]) :
+            print(i)
+
+"""
+insight 정리
+1. 시간, 메모리 제한이 있는 경우 Counter, Sort 등의 기능이 실패하는 경우가 있음. 이때 활용하는 알고리즘이 Counting sort.
+2. 입력으로 들어올 수 있는 데이터의 종류가 10001 종류 라는 점을 이용해서 특정 데이터가 몇 회 등장했는가를 세는 식으로 정렬을 구현한다.
+-> 이 방법의 시간복잡도는 O(n)으로, 일반적인 정렬(ex: sorted)의 시간복잡도 O(nlogn)보다 작다.
+"""
