@@ -1333,9 +1333,9 @@
 </tr>    
 <tr>
    <td>
-      <a href="https://www.acmicpc.net/problem/21354">
+      <a href="https://www.acmicpc.net/problem/10178">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
-          ? 
+          10178 
       </a>
    </td>
    <td>
@@ -2286,8 +2286,53 @@
           2920 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/2750">
+          <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+          2750 
+      </a>
+   </td>
 </tr>
-   
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1924">
+          <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+          1924 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/11719">
+          <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+          11719 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1316">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          1316 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/2941">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          2941 
+      </a>
+   </td>
+</tr>   
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/10984">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          10984 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/10569">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          10569 
+      </a>
+   </td>
+</tr>   
 -------------
 
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
