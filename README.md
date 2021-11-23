@@ -3,7 +3,6 @@
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="220">
 <br><br><br><br><br><br><br><br><br>
 
-### 문제 풀이 히스토리
 <table>
 <tr>
    <td>
@@ -2359,7 +2358,6 @@
       </a>
    </td>
 </tr>   
--------------
 
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
 ```
@@ -2385,3 +2383,4 @@ insight 정리
     * 단, 1의 목적으로 기입하는 경우 혹은 Case Study에 관한 내용만 기입 할 경우에는 원칙대로 할 필요는 없다.
 4. 만약 해결한 문제 중 따로 기입할 문제가 없는 경우 파일을 굳이 생성하지 않는다.
 -------------
+### 문제 풀이 히스토리 기록 <a href="https://solved.ac/profile/ket0804"> solved.ac
