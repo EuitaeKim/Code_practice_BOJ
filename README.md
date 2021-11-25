@@ -2386,7 +2386,7 @@
    <td>
       <a href="https://www.acmicpc.net/problem/2566">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
-          2566 
+          1002 
       </a>
    </td>
 </tr>   
