@@ -2386,10 +2386,30 @@
    <td>
       <a href="https://www.acmicpc.net/problem/2566">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
-          1002 
+          2566 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1065">
+          <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+          1065 
       </a>
    </td>
 </tr>   
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/11653">
+          <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+          11653 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/10815">
+          <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+          10815 
+      </a>
+   </td>
+</tr>
    
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
 ```
