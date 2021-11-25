@@ -2409,6 +2409,18 @@
           10815 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/13752">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          13752 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/14656">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          14656 
+      </a>
+   </td>
 </tr>
    
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
