@@ -2422,7 +2422,40 @@
       </a>
    </td>
 </tr>
-   
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1002">
+          <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+          1002 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1463">
+          <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+          1463 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/16673">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          16673 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/11006">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          11006 
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/15781">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          15781 
+      </a>
+   </td>
+</tr>   
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
 ```
 # No. 문제번호 - 문제이름 (link)
