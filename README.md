@@ -1,8 +1,5 @@
 ## Code practice - BOJ
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="220">
-<br><br><br><br><br><br><br><br><br>
-
 <table>
 <tr>
    <td>
