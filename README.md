@@ -2549,6 +2549,26 @@
       </a>
    </td>
 </tr>    
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/9550">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          9550 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/11134">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          11134 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/10599">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          10599 
+      </a>
+   </td>
+</tr>   
    
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
 ```
