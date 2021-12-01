@@ -2568,7 +2568,21 @@
           10599 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/4892">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          4892 
+      </a>
+   </td>
 </tr>   
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/5217">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          5217 
+      </a>
+   </td>
+</tr>
    
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
 ```
