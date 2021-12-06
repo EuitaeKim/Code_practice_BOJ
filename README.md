@@ -2627,6 +2627,14 @@
       </a>
    </td>
 </tr>
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/3085">
+          <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+          3085 
+      </a>
+   </td>
+</tr>   
    
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
 ```
