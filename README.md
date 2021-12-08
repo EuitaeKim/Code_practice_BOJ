@@ -2634,6 +2634,44 @@
           3085 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/13416">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          13416 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/11004">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          11004 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1292">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          1292 
+      </a>
+   </td>
+</tr>   
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/11728">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          11728 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/10867">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          10867 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/2822">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          2822 
+      </a>
+   </td>
 </tr>   
    
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
