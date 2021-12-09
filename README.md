@@ -2694,7 +2694,7 @@
    </td>
    <td>
       <a href="https://www.acmicpc.net/problem/1021">
-          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          <img src="https://static.solved.ac/tier_small/7.svg" height="14">
           1021 
       </a>
    </td>
