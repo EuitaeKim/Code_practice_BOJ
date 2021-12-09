@@ -2672,6 +2672,32 @@
           2822 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/7785">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          7785 
+      </a>
+   </td>
+</tr>   
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/2693">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          2693 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/8979">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          8979 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1021">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          1021 
+      </a>
+   </td>
 </tr>   
    
 ### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
