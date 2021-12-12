@@ -1,4 +1,8 @@
-## Code practice - BOJ
+## Coding Practice
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="210">
+</br></br></br></br></br></br></br></br></br></br>
+
+## History <a href="https://solved.ac/profile/ket0804"> solved.ac
    
 <table>
 <tr>
@@ -26,8 +30,6 @@
           2558
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/1271">
           <img src="https://static.solved.ac/tier_small/1.svg" height="14">
@@ -78,8 +80,6 @@
           10757
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/10998">
           <img src="https://static.solved.ac/tier_small/1.svg" height="14">
@@ -130,8 +130,6 @@
           15964
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/15962">
           <img src="https://static.solved.ac/tier_small/1.svg" height="14">
@@ -182,8 +180,6 @@
           2439
       </a>
    </td>
-</tr>
- <tr>
    <td>
       <a href="https://www.acmicpc.net/problem/2562">
           <img src="https://static.solved.ac/tier_small/4.svg" height="14">
@@ -234,8 +230,6 @@
           10951
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/10952">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -286,8 +280,6 @@
           2908
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/3052">
           <img src="https://static.solved.ac/tier_small/4.svg" height="14">
@@ -338,8 +330,6 @@
           1181
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/1654">
           <img src="https://static.solved.ac/tier_small/8.svg" height="14">
@@ -390,8 +380,6 @@
           17608
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/12605">
           <img src="https://static.solved.ac/tier_small/5.svg" height="14">
@@ -442,8 +430,6 @@
           3003
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/3046">
           <img src="https://static.solved.ac/tier_small/1.svg" height="14">
@@ -494,8 +480,6 @@
           6749 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/7287">
           <img src="https://static.solved.ac/tier_small/1.svg" height="14">
@@ -546,8 +530,6 @@
           9653 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/9654">
           <img src="https://static.solved.ac/tier_small/1.svg" height="14">
@@ -598,8 +580,6 @@
           11942 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/13277">
           <img src="https://static.solved.ac/tier_small/1.svg" height="14">
@@ -650,8 +630,6 @@
           18301 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/11283">
           <img src="https://static.solved.ac/tier_small/1.svg" height="14">
@@ -702,8 +680,6 @@
           22193 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/1297">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -754,8 +730,6 @@
           23234 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/2588">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -806,8 +780,6 @@
           2839 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/1436">
           <img src="https://static.solved.ac/tier_small/6.svg" height="14">
@@ -858,8 +830,6 @@
           15680 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/10707">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -910,8 +880,6 @@
           20499 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/10814">
           <img src="https://static.solved.ac/tier_small/6.svg" height="14">
@@ -962,8 +930,6 @@
           16486 
       </a>
    </td>
-</tr>  
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/15873">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1014,8 +980,6 @@
           15726 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/13597">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1066,8 +1030,6 @@
           21598 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/20976">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1118,8 +1080,6 @@
           14935 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/16600">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1170,8 +1130,6 @@
           17903 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/16727">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1222,8 +1180,6 @@
           10845 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/10828">
           <img src="https://static.solved.ac/tier_small/7.svg" height="14">
@@ -1274,8 +1230,6 @@
           10989 
       </a>
    </td>
-</tr>    
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/11651">
           <img src="https://static.solved.ac/tier_small/6.svg" height="14">
@@ -1326,8 +1280,6 @@
           21354 
       </a>
    </td>
-</tr>    
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/10178">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -1378,8 +1330,6 @@
           18005 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/16785">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1430,8 +1380,6 @@
           16428 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/1929">
           <img src="https://static.solved.ac/tier_small/9.svg" height="14">
@@ -1482,8 +1430,6 @@
           16017 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/15700">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1534,8 +1480,6 @@
           14924 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/5893">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1586,8 +1530,6 @@
           14173 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/14065">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1638,8 +1580,6 @@
           14264 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/8718">
           <img src="https://static.solved.ac/tier_small/2.svg" height="14">
@@ -1690,8 +1630,6 @@
           2445 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/2444">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -1742,8 +1680,6 @@
           10996 
       </a>
    </td>
-</tr>  
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/10817">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -1794,8 +1730,6 @@
           2490 
       </a>
    </td>
-</tr>  
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/2455">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -1846,8 +1780,6 @@
           1212 
       </a>
    </td>
-</tr>  
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/2875">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -1898,8 +1830,6 @@
           15312 
       </a>
    </td>
-</tr> 
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/2748">
           <img src="https://static.solved.ac/tier_small/5.svg" height="14">
@@ -1950,8 +1880,6 @@
           2163 
       </a>
    </td>
-</tr> 
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/3053">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -2002,8 +1930,6 @@
           2810 
       </a>
    </td>
-</tr>     
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/2061">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -2054,8 +1980,6 @@
           1789 
       </a>
    </td>
-</tr> 
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/1439">
           <img src="https://static.solved.ac/tier_small/6.svg" height="14">
@@ -2106,8 +2030,6 @@
           16395 
       </a>
    </td>
-</tr> 
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/9655">
           <img src="https://static.solved.ac/tier_small/6.svg" height="14">
@@ -2158,8 +2080,6 @@
           10103 
       </a>
    </td>
-</tr> 
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/5063">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -2210,8 +2130,6 @@
           2460 
       </a>
    </td>
-</tr> 
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/15953">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -2262,8 +2180,6 @@
           2743 
       </a>
    </td>
-</tr> 
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/5717">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -2314,8 +2230,6 @@
           2941 
       </a>
    </td>
-</tr>   
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/10984">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -2366,8 +2280,6 @@
           1037 
       </a>
    </td>
-</tr>   
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/1476">
           <img src="https://static.solved.ac/tier_small/6.svg" height="14">
@@ -2418,8 +2330,6 @@
           14656 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/1002">
           <img src="https://static.solved.ac/tier_small/7.svg" height="14">
@@ -2470,8 +2380,6 @@
           10102 
       </a>
    </td>
-</tr>   
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/10988">
           <img src="https://static.solved.ac/tier_small/5.svg" height="14">
@@ -2522,8 +2430,6 @@
           11659 
       </a>
    </td>
-</tr>      
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/11047">
           <img src="https://static.solved.ac/tier_small/9.svg" height="14">
@@ -2574,8 +2480,6 @@
           4892 
       </a>
    </td>
-</tr>   
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/5217">
           <img src="https://static.solved.ac/tier_small/3.svg" height="14">
@@ -2626,8 +2530,6 @@
           2217 
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/3085">
           <img src="https://static.solved.ac/tier_small/8.svg" height="14">
@@ -2678,8 +2580,6 @@
           7785 
       </a>
    </td>
-</tr>   
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/2693">
           <img src="https://static.solved.ac/tier_small/6.svg" height="14">
@@ -2730,38 +2630,13 @@
           13305 
       </a>
    </td>
-</tr>   
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/1120">
           <img src="https://static.solved.ac/tier_small/7.svg" height="14">
           1120 
       </a>
    </td>
-</tr>   
-      
-### 각 문제 별 기록 양식은 아래와 같이 진행할 것 (복사해서 사용)
-```
-# No. 문제번호 - 문제이름 (link)
-"""
-문제 설명
-"""
+</tr>
+</table>
 
-# 내 풀이
-# Case Study
-
-"""
-insight 정리
-"""
-```
--------------
-
-### 양식 활용 방향
-1. 내가 푼 문제 중 정리가 필요 할 경우에 기입.
-2. 내 풀이 중에 체크해야 할 내용을 기록하는 경우 Case Study를 억지로 가져올 필요는 없다.
-3. insight의 내용은 A -> B의 양식으로 기입한다.
-    * 이때 A는 내 풀이의 진행 방향을, B는 Case Study의 Insight를 기입함을 원칙으로 한다.
-    * 단, 1의 목적으로 기입하는 경우 혹은 Case Study에 관한 내용만 기입 할 경우에는 원칙대로 할 필요는 없다.
-4. 만약 해결한 문제 중 따로 기입할 문제가 없는 경우 파일을 굳이 생성하지 않는다.
--------------
-### 문제 풀이 히스토리 기록 <a href="https://solved.ac/profile/ket0804"> solved.ac
+  
