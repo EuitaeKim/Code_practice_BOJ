@@ -2708,7 +2708,7 @@
 <tr>
    <td>
       <a href="https://www.acmicpc.net/problem/15650">
-          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          <img src="https://static.solved.ac/tier_small/8.svg" height="14">
           15650 
       </a>
    </td>
