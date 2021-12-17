@@ -2692,6 +2692,26 @@
           1904 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/15649">
+          <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+          15649 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1699">
+          <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+          1699 
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/15650">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          15650 
+      </a>
+   </td>
 </tr>
 </table>
 
