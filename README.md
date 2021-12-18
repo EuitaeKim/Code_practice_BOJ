@@ -2712,6 +2712,12 @@
           15650 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/14889">
+          <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+          14889 
+      </a>
+   </td>
 </tr>
 </table>
 
