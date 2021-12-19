@@ -2718,6 +2718,24 @@
           14889 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/2630">
+          <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+          2630 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/9375">
+          <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+          9375 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/17626">
+          <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+          17626 
+      </a>
+   </td>
 </tr>
 </table>
 
