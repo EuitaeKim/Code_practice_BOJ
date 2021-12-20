@@ -2736,6 +2736,18 @@
           17626 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1012">
+          <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+          1012 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1074">
+          <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+          1074 
+      </a>
+   </td>
 </tr>
 </table>
 
