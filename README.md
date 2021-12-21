@@ -2748,6 +2748,20 @@
           1074 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1260">
+          <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+          1260 
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/11724">
+          <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+          11724 
+      </a>
+   </td>
 </tr>
 </table>
 
