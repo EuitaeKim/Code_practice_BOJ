@@ -2793,6 +2793,18 @@
           5430 
       </a>
    </td>   
+   <td>
+      <a href="https://www.acmicpc.net/problem/1992">
+          <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+          1992 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/7569">
+          <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+          7569 
+      </a>
+   </td>  
 </tr>
 </table>
 
