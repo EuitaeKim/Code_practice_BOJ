@@ -2806,6 +2806,20 @@
       </a>
    </td>  
 </tr>
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/7576">
+          <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+          7576 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/10026">
+          <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+          10026 
+      </a>
+   </td>
+</tr>
 </table>
 
   
