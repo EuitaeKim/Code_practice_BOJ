@@ -3,7 +3,7 @@
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="210">
 </br></br></br></br></br></br></br></br></br></br>
 
-2021.12.31. Good Bye, BOJ 2021! 대회 참여
+2021.12.31. Good Bye, BOJ 2021! 대회 참가
 
 ## History <a href="https://solved.ac/profile/ket0804"> solved.ac
 
