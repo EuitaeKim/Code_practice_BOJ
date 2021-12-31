@@ -4,6 +4,8 @@
 </br></br></br></br></br></br></br></br></br></br>
 
 ## History <a href="https://solved.ac/profile/ket0804"> solved.ac
+
+2021.12.31. Good Bye, BOJ 2021! 대회 참여 <a href="https://www.acmicpc.net/contest/view/744">
    
 <table>
 <tr>
