@@ -2877,6 +2877,19 @@
           11931 
       </a>
    </td>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/24039">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          24039 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/24040">
+          <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+          24040 
+      </a>
+   </td>
 </tr>
 </table>
 
