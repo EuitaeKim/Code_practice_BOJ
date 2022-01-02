@@ -2877,7 +2877,6 @@
           11931 
       </a>
    </td>
-   </td>
    <td>
       <a href="https://www.acmicpc.net/problem/24039">
           <img src="https://static.solved.ac/tier_small/6.svg" height="14">
@@ -2888,6 +2887,24 @@
       <a href="https://www.acmicpc.net/problem/24040">
           <img src="https://static.solved.ac/tier_small/9.svg" height="14">
           24040 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/2468">
+          <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+          2468 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/10819">
+          <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+          10819 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1541">
+          <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+          1541 
       </a>
    </td>
 </tr>
