@@ -2915,6 +2915,18 @@
           1107 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/2407">
+          <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+          2407 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/11053">
+          <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+          11053 
+      </a>
+   </td>
 </tr>
 </table>
 
