@@ -2927,7 +2927,6 @@
           11053 
       </a>
    </td>
-<tr>
    <td>
       <a href="https://www.acmicpc.net/problem/11722">
           <img src="https://static.solved.ac/tier_small/9.svg" height="14">
