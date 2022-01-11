@@ -2995,6 +2995,38 @@
           1837 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/14541">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          14541 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/8371">
+          <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+          8371 
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/8387">
+          <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+          8387 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/3040">
+          <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+          3040 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1251">
+          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          1251 
+      </a>
+   </td>
 </tr>
 </table>
 
