@@ -3108,6 +3108,14 @@
       </a>
    </td>
 </tr>
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/5427">
+          <img src="https://static.solved.ac/tier_small/12.svg" height="14">
+          5427 
+      </a>
+   </td>
+</tr>
 </table>
 
   
