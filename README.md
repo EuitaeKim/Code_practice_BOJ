@@ -3115,6 +3115,12 @@
           5427 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/24336">
+          <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+          24336 
+      </a>
+   </td>
 </tr>
 </table>
 
