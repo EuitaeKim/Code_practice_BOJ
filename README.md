@@ -3,7 +3,8 @@
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ket0804" height="210">
 </br></br></br></br></br></br></br></br></br></br>
 
-2021.12.31. Good Bye, BOJ 2021! 대회 참가
+2021.12.31. Good Bye, BOJ 2021! 대회 참가</br>
+2022.01.23. 가희와 함께 하는 3회 코딩테스트 참가 
 
 ## History <a href="https://solved.ac/profile/ket0804"> solved.ac
 
