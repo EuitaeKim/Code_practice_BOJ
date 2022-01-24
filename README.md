@@ -3121,6 +3121,17 @@
           <img src="https://static.solved.ac/tier_small/11.svg" height="14">
           24336 
       </a>
+   <td>
+      <a href="https://www.acmicpc.net/problem/10163">
+          <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+          10163 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1669">
+          <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+          1669 
+      </a>
    </td>
 </tr>
 </table>
