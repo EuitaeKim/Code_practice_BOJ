@@ -3133,6 +3133,23 @@
           1669 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1013">
+          <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+          1013 
+      </a>
+   <td>
+      <a href="https://www.acmicpc.net/problem/2671">
+          <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+          2671 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/24337">
+          <img src="https://static.solved.ac/tier_small/13.svg" height="14">
+          24337 
+      </a>
+   </td>
 </tr>
 </table>
 
