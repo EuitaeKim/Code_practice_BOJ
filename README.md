@@ -3150,6 +3150,12 @@
           24337 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/1977">
+          <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+          1977 
+      </a>
+   </td>
 </tr>
 </table>
 
