@@ -3157,6 +3157,25 @@
       </a>
    </td>
 </tr>
+<tr>
+   <td>
+      <a href="https://www.acmicpc.net/problem/4395">
+          <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+          4395 
+      </a>
+   </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/14502">
+          <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+          14502 
+      </a>
+   <td>
+      <a href="https://www.acmicpc.net/problem/9295">
+          <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+          9295 
+      </a>
+   </td>
+</tr>
 </table>
 
   
