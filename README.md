@@ -3175,6 +3175,13 @@
           9295 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/14500">
+          <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+          14500 
+      </a>
+   </td>
+
 </tr>
 </table>
 
