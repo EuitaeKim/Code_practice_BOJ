@@ -3263,6 +3263,12 @@
           16926 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/2563">
+          <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+          2563 
+      </a>
+   </td>
 </tr>
 </table>
 
