@@ -3281,6 +3281,12 @@
           1916 
       </a>
    </td>
+   <td>
+      <a href="https://www.acmicpc.net/problem/9020">
+          <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+          9020 
+      </a>
+   </td>
 </tr>
 </table>
 
