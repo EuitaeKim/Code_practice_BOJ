@@ -3339,7 +3339,7 @@
    </td>
    <td>
       <a href="https://www.acmicpc.net/problem/2477">
-          <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+          <img src="https://static.solved.ac/tier_small/7.svg" height="14">
           2477 
       </a>
    </td>
